@@ -1,0 +1,17 @@
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\bin\Debug\net7.0\POS.Infrastrucure.deps.json
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\bin\Debug\net7.0\POS.Infrastrucure.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\bin\Debug\net7.0\POS.Infrastrucure.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\bin\Debug\net7.0\POS.Domain.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\bin\Debug\net7.0\POS.Utilities.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\bin\Debug\net7.0\POS.Domain.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\bin\Debug\net7.0\POS.Utilities.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\POS.Infrastrucure.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\POS.Infrastrucure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\POS.Infrastrucure.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\POS.Infrastrucure.AssemblyInfo.cs
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\POS.Infrastrucure.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\POS.Infrastrucure.csproj.CopyComplete
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\POS.Infrastrucure.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\refint\POS.Infrastrucure.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\POS.Infrastrucure.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastrucure\obj\Debug\net7.0\ref\POS.Infrastrucure.dll
