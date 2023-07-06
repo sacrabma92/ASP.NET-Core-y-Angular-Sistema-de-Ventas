@@ -1,0 +1,12 @@
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\bin\Debug\net7.0\POS.Utilities.deps.json
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\bin\Debug\net7.0\POS.Utilities.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\bin\Debug\net7.0\POS.Utilities.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.AssemblyInfo.cs
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\obj\Debug\net7.0\refint\POS.Utilities.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\obj\Debug\net7.0\POS.Utilities.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Utilities\obj\Debug\net7.0\ref\POS.Utilities.dll
