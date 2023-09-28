@@ -1,0 +1,17 @@
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.deps.json
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Infrastructure.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Domain.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\bin\Debug\net7.0\POS.Utilities.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.AssemblyInfo.cs
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.csproj.CopyComplete
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\refint\POS.Infrastructure.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\POS.Infrastructure.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Infrastructure\obj\Debug\net7.0\ref\POS.Infrastructure.dll

@@ -1,0 +1,14 @@
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.deps.json
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.runtimeconfig.json
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\bin\Debug\net7.0\POS.Domain.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.AssemblyInfo.cs
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\refint\POS.Domain.dll
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.pdb
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\POS.Domain.genruntimeconfig.cache
+D:\PROYECTOS\C#\ASP.NET Core y Angular  Sistema de Ventas\POS\POS.Domain\obj\Debug\net7.0\ref\POS.Domain.dll
